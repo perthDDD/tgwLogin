@@ -9,7 +9,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "perthTGW500" && password === "uniteAs1Acheive") {
         alert("You have successfully logged in.");
-        window.location.href = "https://funky-wave-252.notion.site/TGW-EDU-a5b9146a42804d269e86dcbe55c3f746?pvs=4";
+        window.location.href = "https://funky-wave-252.notion.site/TGW-EDU-8f4b6fadf4264c76a5283d00aafe0a23?pvs=4";
     } else {
         loginErrorMsg.style.opacity = 1;
     }
