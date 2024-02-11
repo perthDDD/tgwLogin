@@ -9,7 +9,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "234QEmCfXK" && password === "p1DGk7tBFj") {
         alert("You have successfully logged in.");
-        window.open("https://funky-wave-252.notion.site/TGW-EDU-4f97829ceeb84dfbb54c8a6af67f2f91");
+        window.open("https://www.notion.so/funkywave-217/TGW-EDU-4f97829ceeb84dfbb54c8a6af67f2f91?pvs=4");
     } else {
         loginErrorMsg.style.opacity = 1;
     }
