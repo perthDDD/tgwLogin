@@ -7,7 +7,7 @@ loginButton.addEventListener("click", (e) => {
     const username = loginForm.username.value;
     const password = loginForm.password.value;
 
-    if (username === "galdsg1921as" && password === "hkda9vm12") {
+    if (username === "234QEmCfXK" && password === "p1DGk7tBFj") {
         alert("You have successfully logged in.");
         window.open("https://funky-wave-252.notion.site/TGW-EDU-4f97829ceeb84dfbb54c8a6af67f2f91");
     } else {
